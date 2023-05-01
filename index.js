@@ -15,10 +15,21 @@ app.get('/',(req,res)=>{
 app.get('/chefs',(req,res)=>{
     res.send(chefs);
 })
+
+//specifics chef
+app.get('/chef/:id',(req,res)=>{
+    const id = req.params.id;
+    const chef = chefs.find(chef => chef.id === parseInt(id))
+    res.send(chef)
+    console.log(id);
+})
+
+
+
 //recipes
 app.get('/recipes/:chefs_id',(req,res)=>{
     const chefs_id = req.params.chefs_id;
-    console.log('id:',chefs_id);
+   
     const chefsRecipes =  recipes.filter(recipe => recipe.chef_id === parseInt(chefs_id));
     res.send(chefsRecipes);
 })
