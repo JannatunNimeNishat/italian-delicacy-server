@@ -1,0 +1,256 @@
+[
+    {
+        "id": 1,
+        "chef_id": 1,
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "eggs",
+            "parmesan cheese",
+            "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti until al dente. 2. Fry pancetta until crispy. 3. Whisk eggs and parmesan cheese together. 4. Add cooked spaghetti to the pancetta pan and toss. 5. Remove from heat and add egg mixture, stirring until the sauce thickens. 6. Add black pepper to taste.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "chef_id": 2,
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+            "pizza dough",
+            "san marzano tomatoes",
+            "fresh mozzarella",
+            "basil",
+            "olive oil"
+        ],
+        "cooking_method": "1. Preheat oven to 500°F. 2. Spread tomato sauce on pizza dough. 3. Top with fresh mozzarella and basil. 4. Drizzle olive oil over pizza. 5. Bake in oven for 10-12 minutes or until crust is golden brown.",
+        "rating": 4.8
+    },
+    {
+        "id": 3,
+        "chef_id": 3,
+        "recipe_name": "Lasagna",
+        "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "onion",
+            "tomato sauce",
+            "ricotta cheese"
+        ],
+        "cooking_method": "1. Cook lasagna noodles until al dente. 2. Brown ground beef with onion. 3. Mix tomato sauce and ground beef mixture together. 4. In a baking dish, layer noodles, sauce mixture, and ricotta cheese. 5. Repeat layers until all ingredients are used. 6. Bake in oven at 350°F for 30 minutes or until heated through.",
+        "rating": 4.2
+    },
+    {
+        "id": 4,
+        "chef_id": 4,
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+            "chicken breast",
+            "bread crumbs",
+            "egg",
+            "tomato sauce",
+            "mozzarella cheese"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. 2. Mix bread crumbs and egg together. 3. Coat chicken in bread crumb mixture. 4. Fry chicken until browned. 5. In a baking dish, layer chicken, tomato sauce, and mozzarella cheese. 6. Bake in oven for 20-25 minutes or until cheese is melted and bubbly.",
+        "rating": 4.6
+    },
+    {
+        "id": 5,
+        "chef_id": 5,
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+            "linguine",
+            "basil",
+            "garlic",
+            "pine nuts",
+            "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook linguine until al dente. 2. In a blender, mix basil, garlic, pine nuts, and parmesan cheese until smooth. 3. Toss pesto with cooked linguine. 4. Serve hot.",
+        "rating": 4.3
+    },
+    {
+        "id": 6,
+        "chef_id": 6,
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+            "linguine",
+            "basil",
+            "garlic",
+            "pine nuts",
+            "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook linguine until al dente. 2. In a blender, mix basil, garlic, pine nuts, and parmesan cheese until smooth. 3. Toss pesto with cooked linguine. 4. Serve hot.",
+        "rating": 4.3
+    },
+    {
+        "id": 7,
+        "chef_id": 2,
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+            "linguine",
+            "basil",
+            "garlic",
+            "pine nuts",
+            "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook linguine until al dente. 2. In a blender, mix basil, garlic, pine nuts, and parmesan cheese until smooth. 3. Toss pesto with cooked linguine. 4. Serve hot.",
+        "rating": 4.3
+    },
+    {
+        "id": 8,
+        "chef_id": 3,
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+            "linguine",
+            "basil",
+            "garlic",
+            "pine nuts",
+            "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook linguine until al dente. 2. In a blender, mix basil, garlic, pine nuts, and parmesan cheese until smooth. 3. Toss pesto with cooked linguine. 4. Serve hot.",
+        "rating": 4.3
+    },
+    {
+        "id": 9,
+        "chef_id": 1,
+        "recipe_name": "Lasagna",
+        "ingredients": [
+            "lasagna noodles",
+            "ground beef",
+            "onion",
+            "tomato sauce",
+            "ricotta cheese"
+        ],
+        "cooking_method": "1. Cook lasagna noodles until al dente. 2. Brown ground beef with onion. 3. Mix tomato sauce and ground beef mixture together. 4. In a baking dish, layer noodles, sauce mixture, and ricotta cheese. 5. Repeat layers until all ingredients are used. 6. Bake in oven at 350°F for 30 minutes or until heated through.",
+        "rating": 4.2
+    },
+    {
+        "id": 10,
+        "chef_id": 6,
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+            "linguine",
+            "basil",
+            "garlic",
+            "pine nuts",
+            "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook linguine until al dente. 2. In a blender, mix basil, garlic, pine nuts, and parmesan cheese until smooth. 3. Toss pesto with cooked linguine. 4. Serve hot.",
+        "rating": 4.3
+    },
+    {
+        "id": 11,
+        "chef_id": 5,
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+            "chicken breast",
+            "bread crumbs",
+            "egg",
+            "tomato sauce",
+            "mozzarella cheese"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. 2. Mix bread crumbs and egg together. 3. Coat chicken in bread crumb mixture. 4. Fry chicken until browned. 5. In a baking dish, layer chicken, tomato sauce, and mozzarella cheese. 6. Bake in oven for 20-25 minutes or until cheese is melted and bubbly.",
+        "rating": 4.6
+    },
+    {
+        "id": 12,
+        "chef_id": 4,
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "pancetta",
+            "eggs",
+            "parmesan cheese",
+            "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti until al dente. 2. Fry pancetta until crispy. 3. Whisk eggs and parmesan cheese together. 4. Add cooked spaghetti to the pancetta pan and toss. 5. Remove from heat and add egg mixture, stirring until the sauce thickens. 6. Add black pepper to taste.",
+        "rating": 4.5
+    },
+    {
+        "id": 13,
+        "chef_id": 6,
+        "recipe_name": "Risotto",
+        "ingredients": [
+          "arborio rice",
+          "chicken broth",
+          "white wine",
+          "onion",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. In a saucepan, bring chicken broth to a simmer. 2. In a separate pan, sauté onion until translucent. 3. Add arborio rice to the pan and stir until coated in oil. 4. Add white wine and stir until absorbed. 5. Add chicken broth 1/2 cup at a time, stirring until absorbed before adding more. 6. When rice is cooked, stir in parmesan cheese. 7. Serve hot.",
+        "rating": 4.4
+      },
+      {
+        "id": 14,
+        "chef_id": 2,
+        "recipe_name": "Osso Buco",
+        "ingredients": [
+          "veal shanks",
+          "onion",
+          "carrot",
+          "celery",
+          "tomato sauce"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. 2. Brown veal shanks in a skillet. 3. In a separate pan, sauté onion, carrot, and celery until softened. 4. Add tomato sauce and 1 cup of water to the pan. 5. Transfer veal shanks to a baking dish and pour sauce over them. 6. Cover with foil and bake for 2-3 hours, until tender.",
+        "rating": 4.7
+      },
+      {
+        "id": 15,
+        "chef_id": 4,
+        "recipe_name": "Minestrone",
+        "ingredients": [
+          "vegetable broth",
+          "onion",
+          "carrot",
+          "celery",
+          "cannellini beans"
+        ],
+        "cooking_method": "1. In a saucepan, bring vegetable broth to a boil. 2. Add onion, carrot, and celery to the pan and simmer until tender. 3. Add canned tomatoes and cannellini beans. 4. Add pasta and cook until al dente. 5. Season with salt and pepper to taste.",
+        "rating": 4.1
+      },
+      {
+        "id": 16,
+        "chef_id": 3,
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "espresso",
+          "marsala wine",
+          "mascarpone cheese",
+          "cocoa powder"
+        ],
+        "cooking_method": "1. Brew espresso and mix with marsala wine. 2. Dip ladyfingers in the espresso mixture and layer in a baking dish. 3. In a separate bowl, whisk mascarpone cheese until smooth. 4. Layer mascarpone on top of the ladyfingers. 5. Repeat layers until all ingredients are used. 6. Dust cocoa powder on top of the tiramisu. 7. Chill in the refrigerator for at least 2 hours before serving.",
+        "rating": 4.9
+      },
+      {
+        "id": 17,
+        "chef_id": 5,
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+          "pasta",
+          "basil",
+          "garlic",
+          "pine nuts",
+          "parmesan cheese"
+        ],
+        "cooking_method": "1. Cook pasta according to package instructions. 2. In a blender or food processor, combine basil, garlic, pine nuts, and parmesan cheese. 3. While blending, slowly pour in olive oil until a smooth paste is formed. 4. Drain pasta and toss with pesto sauce. 5. Serve hot.",
+        "rating": 4.3
+      },
+      {
+        "id": 18,
+        "chef_id": 1,
+        "recipe_name": "Panzanella",
+        "ingredients": [
+          "day-old bread",
+          "tomatoes",
+          "cucumber",
+          "red onion",
+          "olive oil"
+        ],
+        "cooking_method": "1. Cut day-old bread into cubes and toast until crisp. 2. In a bowl, combine chopped tomatoes, sliced cucumber, and thinly sliced red onion. 3. Add toasted bread cubes to the bowl. 4. Drizzle olive oil over the ingredients and toss to coat. 5. Let sit for 10-15 minutes before serving.",
+        "rating": 4.2
+      }
+      
+    
+]
