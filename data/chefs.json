@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Massimo Bottura",
+        "years_of_experience": 30,
+        "num_of_recipes": 60,
+        "likes": 5000,
+        "picture": "https://i.ibb.co/x2cXhtZ/davide-Oldani.jpg",
+        "short_bio": "Massimo Bottura is an Italian restaurateur and the chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy."
+    },
+    {
+        "id": 2,
+        "chef_name": "Carlo Cracco",
+        "years_of_experience": 25,
+        "num_of_recipes": 45,
+        "likes": 3000,
+        "picture": "https://i.ibb.co/xqRdLDK/carlo-Cracco.jpg",
+        "short_bio": "Carlo Cracco is an Italian chef, television personality, and entrepreneur. He is the owner of Ristorante Cracco in Milan, Italy, and has appeared as a judge on the Italian version of MasterChef."
+    },
+    {
+        "id": 3,
+        "chef_name": "Gualtiero Marchesi",
+        "years_of_experience": 40,
+        "num_of_recipes": 80,
+        "likes": 2000,
+        "picture": "https://i.ibb.co/bXYsPt8/enrico-Crippa.jpg",
+        "short_bio": "Gualtiero Marchesi was an Italian chef and restaurateur, and widely considered the founder of modern Italian cuisine. He was the first Italian chef to be awarded three Michelin stars."
+    },
+    {
+        "id": 4,
+        "chef_name": "Enrico Crippa",
+        "years_of_experience": 20,
+        "num_of_recipes": 50,
+        "likes": 4000,
+        "picture": "https://i.ibb.co/8syrkfQ/gualtiero-Marchesi.jpg",
+        "short_bio": "Enrico Crippa is an Italian chef and the owner of Piazza Duomo, a three-Michelin-star restaurant in Alba, Italy. He is known for his innovative and experimental approach to cuisine."
+    },
+    {
+        "id": 5,
+        "chef_name": "Niko Romito",
+        "years_of_experience": 25,
+        "num_of_recipes": 40,
+        "likes": 1500,
+        "picture": "https://i.ibb.co/N1Pzrcj/massimo-Bottura.jpg",
+        "short_bio": "Niko Romito is an Italian chef and the owner of Ristorante Reale in Castel di Sangro, Italy. He is known for his minimalist approach to cuisine and has been awarded three Michelin stars."
+    },
+    {
+        "id": 6,
+        "chef_name": "Davide Oldani",
+        "years_of_experience": 15,
+        "num_of_recipes": 30,
+        "likes": 2500,
+        "picture": "https://i.ibb.co/fMpNJcT/niko-Romito.jpg",
+        "short_bio": "Davide Oldani is an Italian chef and the owner of D'O, a Michelin-starred restaurant in Milan, Italy. He is known for his cuisine populaire approach to cooking, which emphasizes simplicity and accessibility."
+    }
+]
