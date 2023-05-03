@@ -21,18 +21,23 @@ app.get('/chef/:id',(req,res)=>{
     const id = req.params.id;
     const chef = chefs.find(chef => chef.id === parseInt(id))
     res.send(chef)
-    console.log(id);
+   
 })
 
-
-
 //recipes
+app.get('/recipes',(req,res)=>{
+    res.send(recipes);
+})
+
+//specifics chef recipes
 app.get('/recipes/:chefs_id',(req,res)=>{
     const chefs_id = req.params.chefs_id;
    
     const chefsRecipes =  recipes.filter(recipe => recipe.chef_id === parseInt(chefs_id));
     res.send(chefsRecipes);
 })
+
+
 
 
 app.listen(port,()=>{

@@ -3,6 +3,7 @@
         "id": 1,
         "chef_id": 1,
         "recipe_name": "Spaghetti Carbonara",
+        "img":"https://i.ibb.co/hKnrrz0/Spaghetti-Carbonara.jpg",
         "ingredients": [
             "spaghetti",
             "pancetta",
@@ -17,6 +18,7 @@
         "id": 2,
         "chef_id": 2,
         "recipe_name": "Margherita Pizza",
+        "img":"https://i.ibb.co/yW2gkqc/Lasagna.jpg",
         "ingredients": [
             "pizza dough",
             "san marzano tomatoes",
@@ -31,6 +33,7 @@
         "id": 3,
         "chef_id": 3,
         "recipe_name": "Lasagna",
+        "img":"https://i.ibb.co/x13SNRz/Margherita-Pizza.jpg",
         "ingredients": [
             "lasagna noodles",
             "ground beef",
@@ -45,6 +48,7 @@
         "id": 4,
         "chef_id": 4,
         "recipe_name": "Chicken Parmesan",
+        "img":"https://i.ibb.co/hKnrrz0/Spaghetti-Carbonara.jpg",
         "ingredients": [
             "chicken breast",
             "bread crumbs",
@@ -59,6 +63,7 @@
         "id": 5,
         "chef_id": 5,
         "recipe_name": "Pesto Pasta",
+        "img":"https://i.ibb.co/yW2gkqc/Lasagna.jpg",
         "ingredients": [
             "linguine",
             "basil",
@@ -73,6 +78,7 @@
         "id": 6,
         "chef_id": 6,
         "recipe_name": "Pesto Pasta",
+        "img":"https://i.ibb.co/x13SNRz/Margherita-Pizza.jpg",
         "ingredients": [
             "linguine",
             "basil",
@@ -87,6 +93,7 @@
         "id": 7,
         "chef_id": 2,
         "recipe_name": "Pesto Pasta",
+        "img":"https://i.ibb.co/hKnrrz0/Spaghetti-Carbonara.jpg",
         "ingredients": [
             "linguine",
             "basil",
@@ -101,6 +108,7 @@
         "id": 8,
         "chef_id": 3,
         "recipe_name": "Pesto Pasta",
+        "img":"https://i.ibb.co/yW2gkqc/Lasagna.jpg",
         "ingredients": [
             "linguine",
             "basil",
@@ -115,6 +123,7 @@
         "id": 9,
         "chef_id": 1,
         "recipe_name": "Lasagna",
+        "img":"https://i.ibb.co/x13SNRz/Margherita-Pizza.jpg",
         "ingredients": [
             "lasagna noodles",
             "ground beef",
@@ -129,6 +138,7 @@
         "id": 10,
         "chef_id": 6,
         "recipe_name": "Pesto Pasta",
+        "img":"https://i.ibb.co/yW2gkqc/Lasagna.jpg",
         "ingredients": [
             "linguine",
             "basil",
@@ -143,6 +153,7 @@
         "id": 11,
         "chef_id": 5,
         "recipe_name": "Chicken Parmesan",
+        "img":"https://i.ibb.co/x13SNRz/Margherita-Pizza.jpg",
         "ingredients": [
             "chicken breast",
             "bread crumbs",
@@ -157,6 +168,7 @@
         "id": 12,
         "chef_id": 4,
         "recipe_name": "Spaghetti Carbonara",
+        "img":"https://i.ibb.co/hKnrrz0/Spaghetti-Carbonara.jpg",
         "ingredients": [
             "spaghetti",
             "pancetta",
@@ -171,6 +183,7 @@
         "id": 13,
         "chef_id": 6,
         "recipe_name": "Risotto",
+        "img":"https://i.ibb.co/yW2gkqc/Lasagna.jpg",
         "ingredients": [
           "arborio rice",
           "chicken broth",
@@ -185,6 +198,7 @@
         "id": 14,
         "chef_id": 2,
         "recipe_name": "Osso Buco",
+        "img":"https://i.ibb.co/hKnrrz0/Spaghetti-Carbonara.jpg",
         "ingredients": [
           "veal shanks",
           "onion",
@@ -199,6 +213,7 @@
         "id": 15,
         "chef_id": 4,
         "recipe_name": "Minestrone",
+        "img":"https://i.ibb.co/x13SNRz/Margherita-Pizza.jpg",
         "ingredients": [
           "vegetable broth",
           "onion",
@@ -213,6 +228,7 @@
         "id": 16,
         "chef_id": 3,
         "recipe_name": "Tiramisu",
+        "img":"https://i.ibb.co/hKnrrz0/Spaghetti-Carbonara.jpg",
         "ingredients": [
           "ladyfingers",
           "espresso",
@@ -227,6 +243,7 @@
         "id": 17,
         "chef_id": 5,
         "recipe_name": "Pesto Pasta",
+        "img":"https://i.ibb.co/yW2gkqc/Lasagna.jpg",
         "ingredients": [
           "pasta",
           "basil",
@@ -241,6 +258,7 @@
         "id": 18,
         "chef_id": 1,
         "recipe_name": "Panzanella",
+        "img":"https://i.ibb.co/x13SNRz/Margherita-Pizza.jpg",
         "ingredients": [
           "day-old bread",
           "tomatoes",
